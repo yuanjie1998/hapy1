@@ -7,5 +7,6 @@ package com.happone.hapy1.Controller;
 public class TestOne {
     public static void main(String[] args) {
         System.out.println("testOne");
+        System.out.println(2222222);
     }
 }
